@@ -133,7 +133,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this web app to chat with others or experiment with the code!
+Use this Admin Dashboard to look around and experiment with the code!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
