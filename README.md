@@ -71,7 +71,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 [![Product Name Screen Shot][product-screenshot2]]
 [![Product Name Screen Shot][product-screenshot3]]
 [![Product Name Screen Shot][product-screenshot4]]
