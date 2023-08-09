@@ -72,12 +72,12 @@
 ## About The Project
 
 ![Product Name Screen Shot][product-screenshot]
-[![Product Name Screen Shot][product-screenshot2]]
-[![Product Name Screen Shot][product-screenshot3]]
-[![Product Name Screen Shot][product-screenshot4]]
-[![Product Name Screen Shot][product-screenshot5]]
-[![Product Name Screen Shot][product-screenshot6]]
-[![Product Name Screen Shot][product-screenshot7]]
+![Product Name Screen Shot][product-screenshot2]
+![Product Name Screen Shot][product-screenshot3]
+![Product Name Screen Shot][product-screenshot4]
+![Product Name Screen Shot][product-screenshot5]
+![Product Name Screen Shot][product-screenshot6]
+![Product Name Screen Shot][product-screenshot7]
 
 An intuitive and user-friendly Admin Dashboard that provides a comprehensive overview of various aspects of a system or application. This dashboard is designed with a clean and modern user interface, making it easy for administrators to manage and monitor different functionalities.
 
